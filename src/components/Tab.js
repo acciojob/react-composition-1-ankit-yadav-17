@@ -21,7 +21,7 @@ const Tab = () =>{
                 ))}
             </ul>
 
-            <div>{tabs[activeTab].content}</div>
+            <div>{tabs[activeTab].content} </div>
         </div>
     )
 }
